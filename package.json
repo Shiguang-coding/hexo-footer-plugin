@@ -1,0 +1,32 @@
+{
+  "name": "hexo-footer-plugin",
+  "version": "1.0.0",
+  "description": "A Hexo plugin to add a custom footer with copyright information to posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "footer",
+    "copyright"
+  ],
+  "author": {
+    "name": "Shiguang-coding",
+    "email": "an_shiguang@163.com",
+    "url": "https://blog.shiguang666.eu.org"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "hexo": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shiguang-coding/hexo-footer-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shiguang-coding/hexo-footer-plugin/issues"
+  },
+  "homepage": "https://github.com/Shiguang-coding/hexo-footer-plugin#readme"
+}
